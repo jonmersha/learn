@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129694048718",
+    "project_id": "besheger-apps",
+    "storage_bucket": "besheger-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129694048718:android:600a288898139692a64b9f",
+        "android_client_info": {
+          "package_name": "com.besheger.learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcm1Orw41Ls9OV6HHgj6QupkT7vQ2dKtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
